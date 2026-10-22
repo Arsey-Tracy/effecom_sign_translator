@@ -1,0 +1,54 @@
+# USL Translator Configuration
+# All paths are relative to project root
+
+# Actions/Signs to recognize
+actions:
+  - "oli_otya"
+  - "oli_bulungi"
+  - "webale"
+
+# Data collection settings
+data:
+  raw_path: "data/raw"
+  processed_path: "data/processed_npy"
+  no_sequences: 30
+  sequence_length: 30
+
+# Model architecture
+model:
+  input_dim: 225
+  hidden_dim: 64
+  num_layers: 2
+  dropout: 0.2
+
+# Training settings
+training:
+  epochs: 100
+  batch_size: 16
+  learning_rate: 0.001
+  val_split: 0.2
+  early_stopping_patience: 10
+  early_stopping_min_delta: 0.001
+  device: "cpu"  # "cpu" or "cuda"
+
+# Inference settings
+inference:
+  confidence_threshold: 0.75
+  buffer_size: 30
+  camera_index: 0
+  display_width: 640
+  display_height: 480
+
+# Model paths
+paths:
+  hand_model: "models/hand_landmarker.task"
+  pose_model: "models/pose_landmarker.task"
+  holistic_model: "models/holistic_landmarker.task"
+  model_weights: "models/usl_model.pt"
+  best_model_weights: "models/usl_model_best.pt"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/usl_translator.log"

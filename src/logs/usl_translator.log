@@ -1,0 +1,146 @@
+2026-10-22 09:53:46,008 - __main__ - INFO - Starting USL Translator in 'collect' mode
+2026-10-22 09:54:15,437 - extractor - INFO - Hand landmarker loaded from models/hand_landmarker.task
+2026-10-22 09:54:19,153 - extractor - INFO - Pose landmarker loaded from models/pose_landmarker.task
+2026-10-22 09:54:27,735 - builder - INFO - Starting dataset recording...
+2026-10-22 09:54:27,736 - builder - INFO - Actions: ['oli_otya', 'oli_bulungi', 'webale']
+2026-10-22 09:54:27,737 - builder - INFO - Sequences per action: 30
+2026-10-22 09:54:27,737 - builder - INFO - Frames per sequence: 30
+2026-10-22 09:54:49,840 - builder - INFO - Completed oli_otya sequence 0
+2026-10-22 09:55:12,154 - builder - INFO - Completed oli_otya sequence 1
+2026-10-22 09:55:32,773 - builder - INFO - Completed oli_otya sequence 2
+2026-10-22 09:55:54,727 - builder - INFO - Completed oli_otya sequence 3
+2026-10-22 09:56:17,452 - builder - INFO - Completed oli_otya sequence 4
+2026-10-22 09:56:40,935 - builder - INFO - Completed oli_otya sequence 5
+2026-10-22 09:57:02,678 - builder - INFO - Completed oli_otya sequence 6
+2026-10-22 09:57:23,569 - builder - INFO - Completed oli_otya sequence 7
+2026-10-22 09:57:32,637 - builder - INFO - Completed oli_otya sequence 8
+2026-10-22 09:57:41,599 - builder - INFO - Completed oli_otya sequence 9
+2026-10-22 09:57:59,814 - builder - INFO - Completed oli_otya sequence 10
+2026-10-22 09:58:22,325 - builder - INFO - Completed oli_otya sequence 11
+2026-10-22 09:58:42,760 - builder - INFO - Completed oli_otya sequence 12
+2026-10-22 09:59:03,781 - builder - INFO - Completed oli_otya sequence 13
+2026-10-22 09:59:24,710 - builder - INFO - Completed oli_otya sequence 14
+2026-10-22 09:59:45,089 - builder - INFO - Completed oli_otya sequence 15
+2026-10-22 10:00:05,604 - builder - INFO - Completed oli_otya sequence 16
+2026-10-22 10:00:25,868 - builder - INFO - Completed oli_otya sequence 17
+2026-10-22 10:00:46,313 - builder - INFO - Completed oli_otya sequence 18
+2026-10-22 10:01:07,165 - builder - INFO - Completed oli_otya sequence 19
+2026-10-22 10:01:27,799 - builder - INFO - Completed oli_otya sequence 20
+2026-10-22 10:01:48,619 - builder - INFO - Completed oli_otya sequence 21
+2026-10-22 10:02:08,945 - builder - INFO - Completed oli_otya sequence 22
+2026-10-22 10:02:29,335 - builder - INFO - Completed oli_otya sequence 23
+2026-10-22 10:02:49,614 - builder - INFO - Completed oli_otya sequence 24
+2026-10-22 10:03:10,224 - builder - INFO - Completed oli_otya sequence 25
+2026-10-22 10:03:30,631 - builder - INFO - Completed oli_otya sequence 26
+2026-10-22 10:03:51,073 - builder - INFO - Completed oli_otya sequence 27
+2026-10-22 10:04:12,040 - builder - INFO - Completed oli_otya sequence 28
+2026-10-22 10:04:32,678 - builder - INFO - Completed oli_otya sequence 29
+2026-10-22 10:04:53,246 - builder - INFO - Completed oli_bulungi sequence 0
+2026-10-22 10:05:13,592 - builder - INFO - Completed oli_bulungi sequence 1
+2026-10-22 10:05:34,879 - builder - INFO - Completed oli_bulungi sequence 2
+2026-10-22 10:05:55,667 - builder - INFO - Completed oli_bulungi sequence 3
+2026-10-22 10:06:16,938 - builder - INFO - Completed oli_bulungi sequence 4
+2026-10-22 10:06:37,849 - builder - INFO - Completed oli_bulungi sequence 5
+2026-10-22 10:06:58,855 - builder - INFO - Completed oli_bulungi sequence 6
+2026-10-22 10:07:19,891 - builder - INFO - Completed oli_bulungi sequence 7
+2026-10-22 10:07:41,032 - builder - INFO - Completed oli_bulungi sequence 8
+2026-10-22 10:08:01,602 - builder - INFO - Completed oli_bulungi sequence 9
+2026-10-22 10:08:21,814 - builder - INFO - Completed oli_bulungi sequence 10
+2026-10-22 10:08:41,818 - builder - INFO - Completed oli_bulungi sequence 11
+2026-10-22 10:09:02,046 - builder - INFO - Completed oli_bulungi sequence 12
+2026-10-22 10:09:22,209 - builder - INFO - Completed oli_bulungi sequence 13
+2026-10-22 10:09:42,739 - builder - INFO - Completed oli_bulungi sequence 14
+2026-10-22 10:10:04,794 - builder - INFO - Completed oli_bulungi sequence 15
+2026-10-22 10:10:26,331 - builder - INFO - Completed oli_bulungi sequence 16
+2026-10-22 10:10:46,873 - builder - INFO - Completed oli_bulungi sequence 17
+2026-10-22 10:11:08,183 - builder - INFO - Completed oli_bulungi sequence 18
+2026-10-22 10:11:30,295 - builder - INFO - Completed oli_bulungi sequence 19
+2026-10-22 10:11:52,937 - builder - INFO - Completed oli_bulungi sequence 20
+2026-10-22 10:12:15,571 - builder - INFO - Completed oli_bulungi sequence 21
+2026-10-22 10:12:38,050 - builder - INFO - Completed oli_bulungi sequence 22
+2026-10-22 10:13:01,384 - builder - INFO - Completed oli_bulungi sequence 23
+2026-10-22 10:13:23,240 - builder - INFO - Completed oli_bulungi sequence 24
+2026-10-22 10:13:43,359 - builder - INFO - Completed oli_bulungi sequence 25
+2026-10-22 10:14:03,718 - builder - INFO - Completed oli_bulungi sequence 26
+2026-10-22 10:14:23,789 - builder - INFO - Completed oli_bulungi sequence 27
+2026-10-22 10:14:45,034 - builder - INFO - Completed oli_bulungi sequence 28
+2026-10-22 10:15:07,127 - builder - INFO - Completed oli_bulungi sequence 29
+2026-10-22 10:15:28,447 - builder - INFO - Completed webale sequence 0
+2026-10-22 10:15:51,081 - builder - INFO - Completed webale sequence 1
+2026-10-22 10:16:14,508 - builder - INFO - Completed webale sequence 2
+2026-10-22 10:16:38,699 - builder - INFO - Completed webale sequence 3
+2026-10-22 10:17:09,948 - builder - INFO - Completed webale sequence 4
+2026-10-22 10:18:21,048 - builder - ERROR - Failed to read frame from camera
+2026-10-22 10:18:25,919 - extractor - INFO - Detectors closed
+2026-10-22 10:18:26,013 - builder - INFO - Data collection finished
+2026-10-22 10:19:32,013 - __main__ - INFO - Starting USL Translator in 'train' mode
+2026-10-22 10:20:40,701 - train - INFO - Loading dataset...
+2026-10-22 10:22:27,376 - train - WARNING - Incomplete sequence 5 for webale: 2 frames
+2026-10-22 10:22:27,422 - train - WARNING - Incomplete sequence 6 for webale: 0 frames
+2026-10-22 10:22:27,424 - train - WARNING - Incomplete sequence 7 for webale: 0 frames
+2026-10-22 10:22:27,432 - train - WARNING - Incomplete sequence 8 for webale: 0 frames
+2026-10-22 10:22:27,434 - train - WARNING - Incomplete sequence 9 for webale: 0 frames
+2026-10-22 10:22:27,436 - train - WARNING - Incomplete sequence 10 for webale: 0 frames
+2026-10-22 10:22:27,440 - train - WARNING - Incomplete sequence 11 for webale: 0 frames
+2026-10-22 10:22:27,442 - train - WARNING - Incomplete sequence 12 for webale: 0 frames
+2026-10-22 10:22:27,443 - train - WARNING - Incomplete sequence 13 for webale: 0 frames
+2026-10-22 10:22:27,444 - train - WARNING - Incomplete sequence 14 for webale: 0 frames
+2026-10-22 10:22:27,445 - train - WARNING - Incomplete sequence 15 for webale: 0 frames
+2026-10-22 10:22:27,447 - train - WARNING - Incomplete sequence 16 for webale: 0 frames
+2026-10-22 10:22:27,448 - train - WARNING - Incomplete sequence 17 for webale: 0 frames
+2026-10-22 10:22:27,449 - train - WARNING - Incomplete sequence 18 for webale: 0 frames
+2026-10-22 10:22:27,450 - train - WARNING - Incomplete sequence 19 for webale: 0 frames
+2026-10-22 10:22:27,452 - train - WARNING - Incomplete sequence 20 for webale: 0 frames
+2026-10-22 10:22:27,453 - train - WARNING - Incomplete sequence 21 for webale: 0 frames
+2026-10-22 10:22:27,457 - train - WARNING - Incomplete sequence 22 for webale: 0 frames
+2026-10-22 10:22:27,462 - train - WARNING - Incomplete sequence 23 for webale: 0 frames
+2026-10-22 10:22:27,465 - train - WARNING - Incomplete sequence 24 for webale: 0 frames
+2026-10-22 10:22:27,467 - train - WARNING - Incomplete sequence 25 for webale: 0 frames
+2026-10-22 10:22:27,470 - train - WARNING - Incomplete sequence 26 for webale: 0 frames
+2026-10-22 10:22:27,472 - train - WARNING - Incomplete sequence 27 for webale: 0 frames
+2026-10-22 10:22:27,473 - train - WARNING - Incomplete sequence 28 for webale: 0 frames
+2026-10-22 10:22:27,474 - train - WARNING - Incomplete sequence 29 for webale: 0 frames
+2026-10-22 10:22:27,580 - train - INFO - Loaded 65 sequences, 3 classes
+2026-10-22 10:22:28,194 - train - INFO - Using device: cpu
+2026-10-22 10:22:52,271 - train - INFO - Starting training...
+2026-10-22 10:22:53,068 - train - INFO - Epoch [1/100], Train Loss: 1.0984, Val Loss: 1.0193, Val Acc: 46.15%
+2026-10-22 10:22:53,164 - train - INFO - Saved best model to models/usl_model_best.pt
+2026-10-22 10:22:53,491 - train - INFO - Epoch [2/100], Train Loss: 0.9908, Val Loss: 0.9209, Val Acc: 69.23%
+2026-10-22 10:22:53,504 - train - INFO - Saved best model to models/usl_model_best.pt
+2026-10-22 10:22:53,780 - train - INFO - Epoch [3/100], Train Loss: 0.8855, Val Loss: 0.8315, Val Acc: 69.23%
+2026-10-22 10:22:53,790 - train - INFO - Saved best model to models/usl_model_best.pt
+2026-10-22 10:22:54,045 - train - INFO - Epoch [4/100], Train Loss: 0.7961, Val Loss: 0.7519, Val Acc: 69.23%
+2026-10-22 10:22:54,054 - train - INFO - Saved best model to models/usl_model_best.pt
+2026-10-22 10:22:54,313 - train - INFO - Epoch [5/100], Train Loss: 0.6467, Val Loss: 0.6949, Val Acc: 69.23%
+2026-10-22 10:22:54,323 - train - INFO - Saved best model to models/usl_model_best.pt
+2026-10-22 10:22:54,616 - train - INFO - Epoch [6/100], Train Loss: 0.5577, Val Loss: 0.6213, Val Acc: 61.54%
+2026-10-22 10:22:54,628 - train - INFO - Saved best model to models/usl_model_best.pt
+2026-10-22 10:22:54,889 - train - INFO - Epoch [7/100], Train Loss: 0.4115, Val Loss: 0.6944, Val Acc: 69.23%
+2026-10-22 10:22:55,165 - train - INFO - Epoch [8/100], Train Loss: 0.3717, Val Loss: 0.5589, Val Acc: 69.23%
+2026-10-22 10:22:55,174 - train - INFO - Saved best model to models/usl_model_best.pt
+2026-10-22 10:22:55,429 - train - INFO - Epoch [9/100], Train Loss: 0.3732, Val Loss: 1.4053, Val Acc: 46.15%
+2026-10-22 10:22:55,681 - train - INFO - Epoch [10/100], Train Loss: 0.9928, Val Loss: 0.7697, Val Acc: 61.54%
+2026-10-22 10:22:56,022 - train - INFO - Epoch [11/100], Train Loss: 0.6250, Val Loss: 0.5747, Val Acc: 76.92%
+2026-10-22 10:22:56,406 - train - INFO - Epoch [12/100], Train Loss: 0.4462, Val Loss: 0.5754, Val Acc: 69.23%
+2026-10-22 10:22:56,743 - train - INFO - Epoch [13/100], Train Loss: 0.3422, Val Loss: 0.4890, Val Acc: 76.92%
+2026-10-22 10:22:56,759 - train - INFO - Saved best model to models/usl_model_best.pt
+2026-10-22 10:22:57,095 - train - INFO - Epoch [14/100], Train Loss: 0.3266, Val Loss: 0.7286, Val Acc: 69.23%
+2026-10-22 10:22:57,516 - train - INFO - Epoch [15/100], Train Loss: 0.2695, Val Loss: 0.6032, Val Acc: 69.23%
+2026-10-22 10:22:58,148 - train - INFO - Epoch [16/100], Train Loss: 0.2015, Val Loss: 0.9081, Val Acc: 69.23%
+2026-10-22 10:22:58,666 - train - INFO - Epoch [17/100], Train Loss: 0.2812, Val Loss: 1.2823, Val Acc: 53.85%
+2026-10-22 10:22:59,460 - train - INFO - Epoch [18/100], Train Loss: 0.2331, Val Loss: 1.0722, Val Acc: 53.85%
+2026-10-22 10:23:01,116 - train - INFO - Epoch [19/100], Train Loss: 0.2859, Val Loss: 0.7408, Val Acc: 53.85%
+2026-10-22 10:23:01,602 - train - INFO - Epoch [20/100], Train Loss: 0.3050, Val Loss: 0.6570, Val Acc: 76.92%
+2026-10-22 10:23:02,084 - train - INFO - Epoch [21/100], Train Loss: 0.2748, Val Loss: 0.8405, Val Acc: 76.92%
+2026-10-22 10:23:02,477 - train - INFO - Epoch [22/100], Train Loss: 0.1953, Val Loss: 0.8930, Val Acc: 53.85%
+2026-10-22 10:23:02,745 - train - INFO - Epoch [23/100], Train Loss: 0.1560, Val Loss: 0.7637, Val Acc: 76.92%
+2026-10-22 10:23:02,746 - train - INFO - Early stopping triggered after 23 epochs
+2026-10-22 10:23:02,756 - train - INFO - Final model saved to models/usl_model.pt
+2026-10-22 10:23:44,302 - __main__ - INFO - Starting USL Translator in 'infer' mode
+2026-10-22 10:24:37,836 - main - INFO - Using device: cpu
+2026-10-22 10:24:38,122 - main - INFO - Model loaded from models/usl_model.pt
+2026-10-22 10:24:38,741 - extractor - INFO - Hand landmarker loaded from models/hand_landmarker.task
+2026-10-22 10:24:39,411 - extractor - INFO - Pose landmarker loaded from models/pose_landmarker.task
+2026-10-22 10:25:18,180 - main - INFO - Starting live inference. Press 'q' to quit.
+2026-10-22 10:27:05,335 - extractor - INFO - Detectors closed
+2026-10-22 10:27:05,511 - main - INFO - Inference stopped
